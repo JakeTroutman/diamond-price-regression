@@ -27,6 +27,7 @@ The final four-predictor model explains **98.4% of the variance** in diamond pri
 
 - `PSTAT126-Final_Project.Rmd` — R Markdown source with all code, plots, and analysis
 - `PSTAT126-Final_Project.pdf` — Knitted final report
+  (https://drive.google.com/file/d/1lMj-quMjK-qii8SxdtKcdTJkVasnBXJy/view?usp=sharing)
 - `Final_Project.pdf` — Project Instructions
 
 ## Tools
